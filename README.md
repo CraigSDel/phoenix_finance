@@ -184,4 +184,4 @@ Cancels the attempted rebase & checkouts to the original branch
 
 ##### Works for POST #####
 Note Content-Type used by JBOSS i.e. application/x-www-form-urlencoded
->	curl -d "name=Hai&surname=Man&dob=2017-06-29" -X POST -H "Content-Type: application/x-www-form-urlencoded" http://localhost:8080/jee_homework_hw6_b_version3_cdi/customer/add
+>	curl -d "name=Hai&surname=Man&dob=2017-06-29" -X POST -H "Content-Type: application/x-www-form-urlencoded" http://localhost:8080/jee_homework_hw6_b_version3_cdi/customer/add# phoenix_finance
